@@ -1,52 +1,84 @@
 {
     "chefs": [
       {
-        "picture": "https://example.com/chef1.jpg",
+        "id": 1,
+        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
         "name": "John Smith",
         "experience": "10 years",
         "recipes": 100,
-        "likes": 5000,
-        "buttonText": "View Recipes"
+        "likes": 5000
       },
       {
-        "picture": "https://example.com/chef2.jpg",
+        "id": 2,
+        "picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1087&q=80",
         "name": "Jane Doe",
         "experience": "8 years",
         "recipes": 80,
-        "likes": 4000,
-        "buttonText": "View Recipes"
+        "likes": 4000
       },
       {
-        "picture": "https://example.com/chef3.jpg",
+        "id": 3,
+        "picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "name": "Michael Lee",
         "experience": "12 years",
         "recipes": 120,
-        "likes": 5500,
-        "buttonText": "View Recipes"
+        "likes": 5500
       },
       {
-        "picture": "https://example.com/chef4.jpg",
+        "id": 4,
+        "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "name": "Sarah Kim",
         "experience": "5 years",
         "recipes": 60,
-        "likes": 3000,
-        "buttonText": "View Recipes"
+        "likes": 3000
       },
       {
-        "picture": "https://example.com/chef5.jpg",
+        "id": 5,
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
         "name": "David Chen",
         "experience": "15 years",
         "recipes": 150,
-        "likes": 6000,
-        "buttonText": "View Recipes"
+        "likes": 6000
       },
       {
-        "picture": "https://example.com/chef6.jpg",
+        "id": 6,
+        "picture": "https://images.unsplash.com/photo-1592498546551-222538011a27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "name": "Emily Wong",
         "experience": "3 years",
         "recipes": 40,
-        "likes": 2000,
-        "buttonText": "View Recipes"
+        "likes": 2000
+      },
+      {
+        "id": 7,
+        "picture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Alexandre Duarte",
+        "experience": "6 years",
+        "recipes": 70,
+        "likes": 4500
+      },
+      {
+        "id": 8,
+        "picture": "https://images.unsplash.com/photo-1592332297790-c7c27c38ecb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "name": "Maria Rodriguez",
+        "experience": "9 years",
+        "recipes": 90,
+        "likes": 3500
+      },
+      {
+        "id": 9,
+        "picture": "https://images.unsplash.com/photo-1562038624-576954020553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+        "name": "Samantha Wu",
+        "experience": "7 years",
+        "recipes": 85,
+        "likes": 4200
+      },
+      {
+        "id": 10,
+        "picture": "https://images.unsplash.com/photo-1574966740429-6158cb530208?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "name": "Juan Hernandez",
+        "experience": "4 years",
+        "recipes": 55,
+        "likes": 2800
       }
     ]
   }
