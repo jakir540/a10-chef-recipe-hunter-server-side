@@ -18,7 +18,7 @@
       },
       {
         "id": 3,
-        "picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "picture": "https://images.unsplash.com/photo-1574966740429-6158cb530208?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "name": "Michael Lee",
         "experience": "12 years",
         "recipes": 120,
@@ -26,7 +26,7 @@
       },
       {
         "id": 4,
-        "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "picture": "https://images.unsplash.com/photo-1562038624-576954020553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
         "name": "Sarah Kim",
         "experience": "5 years",
         "recipes": 60,
@@ -50,7 +50,7 @@
       },
       {
         "id": 7,
-        "picture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80",
         "name": "Alexandre Duarte",
         "experience": "6 years",
         "recipes": 70,
@@ -63,22 +63,6 @@
         "experience": "9 years",
         "recipes": 90,
         "likes": 3500
-      },
-      {
-        "id": 9,
-        "picture": "https://images.unsplash.com/photo-1562038624-576954020553?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
-        "name": "Samantha Wu",
-        "experience": "7 years",
-        "recipes": 85,
-        "likes": 4200
-      },
-      {
-        "id": 10,
-        "picture": "https://images.unsplash.com/photo-1574966740429-6158cb530208?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-        "name": "Juan Hernandez",
-        "experience": "4 years",
-        "recipes": 55,
-        "likes": 2800
       }
     ]
   }
