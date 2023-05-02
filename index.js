@@ -8,7 +8,7 @@ const chefs = require('./data/data.json');
 app.use(cors());
 
 app.get('/',(req,res)=>{
-    res.send('server is running')
+    res.send('data server is running')
 })
 
 
