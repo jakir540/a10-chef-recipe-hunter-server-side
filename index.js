@@ -22,7 +22,7 @@ app.get('/chefs/:id',(req,res)=>{
     // console.log(chefs.chefs);   
     const selectedChef = chefs.chefs.find(chef => parseInt(chef.id) === id );
     res.send(selectedChef);
-    // console.log(selectedChef);
+    
 })
 
 app.listen(port,()=>{
