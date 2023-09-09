@@ -227,11 +227,44 @@
       ],
       "description": "Sarah is a vegan chef who specializes in plant-based cuisine. She believes that food should be both healthy and delicious, and loves to create dishes that are both satisfying and nourishing."
     },
+
+    
     {
       "id": 8,
       "picture": "https://images.unsplash.com/photo-1592332297790-c7c27c38ecb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
       "name": "Maria Rodriguez",
       "experience": "9 years",
+      "recipes": 90,
+      "likes": 3500,
+      "recipeinfo": [
+        {
+          "name": "Lobster Bisque",
+          "ingredients": ["lobster meat", "heavy cream", "butter", "onion", "garlic"],
+          "cooking_method": "Melt butter in a large saucepan over medium heat. Add chopped onions and garlic and cook until soft. Add lobster meat and cook for 5 minutes. Add enough water to cover the lobster meat and bring to a boil. Reduce the heat and let simmer for 20 minutes. Add heavy cream and let simmer for another 10 minutes. Remove from heat and blend the soup until smooth. Season with salt and pepper to taste.",
+          "rating": 4.8
+        },
+        {
+          "name": "Beef Wellington",
+          "ingredients": ["beef tenderloin", "puff pastry", "mushrooms", "shallots", "Dijon mustard"],
+          "cooking_method": "Season beef tenderloin with salt and pepper. Sear beef in a hot pan until browned on all sides. Let the beef cool. In a food processor, pulse mushrooms and shallots until finely chopped. Sauté the mushroom mixture in a pan until all the moisture has evaporated. Roll out the puff pastry and spread a thin layer of Dijon mustard on it. Place the mushroom mixture on top of the puff pastry. Place the seared beef on top of the mushroom mixture. Wrap the puff pastry around the beef and brush with egg wash. Bake in the oven at 400°F for 20-25 minutes or until the puff pastry is golden brown.",
+          "rating": 4.5
+        },
+        {
+          "name": "Kung Pao Chicken",
+          "chinese_name": "宫保鸡丁",
+          "ingredients": ["chicken breast", "roasted peanuts", "dried chili peppers", "green onions", "garlic"],
+          "cooking_method": "Cut chicken breast into small cubes. In a small bowl, mix soy sauce, vinegar, sugar, and cornstarch together to make a sauce. In a wok or large skillet, heat oil over high heat. Add dried chili peppers and cook until fragrant. Add chicken and stir-fry until cooked through. Add the sauce and stir until the sauce thickens. Add roasted peanuts, chopped green onions, and minced garlic. Stir-fry for another minute. Serve hot over rice.",
+          "rating": 4.9
+        }
+      ],
+      "description": "Sarah is a vegan chef who specializes in plant-based cuisine. She believes that food should be both healthy and delicious, and loves to create dishes that are both satisfying and nourishing."
+    }
+,
+    {
+      "id": 9,
+      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1691194815~exp=1691195415~hmac=d5aac4234710d6c79faccc667156488555b6268b3c6804f1689e1a2fd9bbd34b",
+      "name": "JAMES Rodriguez",
+      "experience": "2 years",
       "recipes": 90,
       "likes": 3500,
       "recipeinfo": [
